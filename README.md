@@ -1,3 +1,3 @@
 # colegio
-Adição, exclusão, atualização e listagem de alunos professores e turmas
-projeto feito no primeiro semestre do curso de ADS
+Adição, exclusão, atualização e listagem de alunos professores e turmas.
+Projeto feito no primeiro semestre do curso de ADS
